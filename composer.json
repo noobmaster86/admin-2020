@@ -1,0 +1,16 @@
+{
+  "name": "humanrobot1/admin-2020",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/YourGitHubUsername/example-plugin",
+  "authors": [
+    {
+      "name": "Admin-2020",
+      "homepage": "https://admintwentytwenty.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
